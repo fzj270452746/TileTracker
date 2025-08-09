@@ -1,0 +1,20 @@
+PODS:
+  - Nuke (10.7.1)
+  - ReachabilitySwift (5.2.4)
+
+DEPENDENCIES:
+  - Nuke
+  - ReachabilitySwift
+
+SPEC REPOS:
+  trunk:
+    - Nuke
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  Nuke: 279f17a599fd1c83cf51de5e0e1f2db143a287b0
+  ReachabilitySwift: 32793e867593cfc1177f5d16491e3a197d2fccda
+
+PODFILE CHECKSUM: 0a57009beffceead84f5e71c9adac525e46d58aa
+
+COCOAPODS: 1.16.2
